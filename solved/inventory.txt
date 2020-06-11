@@ -1,0 +1,10 @@
+Pepsi,2.50,2
+Coca-Cola,2.55,3
+Mt. Ogabogee Spring Water,2.25,5
+Corn Chips,3.00,2
+Fruit Juice,4.00,1
+Smarties,3.50,6
+Mars-Bar,2.40,7
+Snickers-Bar,2.50,8
+M & M's,3.80,6
+BBQ Chips,1.80,6

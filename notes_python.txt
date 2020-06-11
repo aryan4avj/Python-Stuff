@@ -1,0 +1,14 @@
+*****list input*******
+
+[Simple] Option 1 (since we know the number of elements, n):
+    for i in xrange(n):
+        input_list[i] = int(input_list[i])
+[Simple] Option 2 (if we are ignoring the first input line for some reason):
+    for i in xrange(len(input_list)):
+        input_list[i] = int(input_list[i])
+[More Advanced] Option 3:
+    input_list = map(int, input_list)
+[More Advanced] Option 4 (List composition):
+    input_list = [int(x) for x in input_list]
+
+**********************************
